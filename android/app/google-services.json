@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659847925379",
+    "firebase_url": "https://call1800-ce890.firebaseio.com",
+    "project_id": "call1800-ce890",
+    "storage_bucket": "call1800-ce890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659847925379:android:63523b650f0f9960f715b6",
+        "android_client_info": {
+          "package_name": "com.call1800"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659847925379-nkv55tbihkqe5v3beh512h2asrq0e37l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclxqtl8iCS3M1qDfEu7HLUBy1Vis6bTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659847925379-nkv55tbihkqe5v3beh512h2asrq0e37l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+.\gradlew bundleRelease
+
+react-native run-android --variant=release
+
+1888/1877/1866/1855/1844/1800
